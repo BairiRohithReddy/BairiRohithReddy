@@ -82,6 +82,8 @@
 <h2 align="center">Recent Activity ⚡</h2>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/BairiRohithReddy/DSA/pull/1) in [BairiRohithReddy/DSA](https://github.com/BairiRohithReddy/DSA)
+2. 💪 Opened PR [#1](https://github.com/BairiRohithReddy/DSA/pull/1) in [BairiRohithReddy/DSA](https://github.com/BairiRohithReddy/DSA)
 <!--END_SECTION:activity-->
 
 <!-- GitHub Trophies -->
