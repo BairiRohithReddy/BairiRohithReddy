@@ -73,10 +73,10 @@
 </div>
 
 <!-- 3D Contribution Calendar -->
-<h2 align="center">Contributions 📈</h2>
-<div align="center">
+<!--<h2 align="center">Contributions 📈</h2>
+ <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-</div>
+</div> -->
 
 <!-- Recent Activity -->
 <h2 align="center">Recent Activity ⚡</h2>
@@ -98,14 +98,14 @@
 </div>
 
 <!-- Snake Animation -->
-<div align="center">
-  <picture>
+<!--<div align="center">-->
+<!--   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BairiRohithReddy/BairiRohithReddy/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BairiRohithReddy/BairiRohithReddy/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BairiRohithReddy/BairiRohithReddy/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
+  </picture> -->
+<!-- </div>
+ -->
 <!-- Footer -->
 <h3 align="center">
   Thanks for visiting! <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" />
